@@ -5,8 +5,6 @@ target/
 
 ### IntelliJ IDEA ###
 .idea/
-/backend/.idea/
-/backend/target/
 
 ### Eclipse ###
 .apt_generated
